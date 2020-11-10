@@ -1,4 +1,4 @@
-# general_purposes
+# general_codes
 This repository contains convenient tools, files, codes and so on.
 
 # Description of each file
